@@ -26,7 +26,7 @@ v1.0 updates:
 - added optional sleep timer 
 - added optional hashtag limiter
 - added a couple extra additions for some people experiencing SSL errors.  (thanks Charlie)
-*** thank you Nick, John, Max, Shahar, Charlie for the help
+*** thank you Nick, John, Max, Shahar, Charlie f
 '''
 
 import os
